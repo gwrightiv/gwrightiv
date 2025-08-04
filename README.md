@@ -41,7 +41,7 @@ A complete lab demonstrating the setup, configuration, and security of a Windows
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gwrightiv) *(add this if you haven’t yet)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/graham-wright-iv/) *(add this if you haven’t yet)*
 - 📘 [My Portfolio Repo Index](https://github.com/gwrightiv) *(this page)*
 
 ---
