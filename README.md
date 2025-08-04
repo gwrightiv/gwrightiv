@@ -11,7 +11,7 @@ A complete lab demonstrating the setup, configuration, and security of a Windows
 
 **Key features:**
 - ☁️ Azure VM deployment and auto-shutdown
-- 🏢 Domain controller setup using AD DS (`nsign.corp`)
+- 🏢 Domain controller setup using AD DS (`ensign.corp`)
 - 👥 User and OU management with NTFS folder permissions
 - 🔐 Custom firewall rules + automated update scheduling via PowerShell
 
