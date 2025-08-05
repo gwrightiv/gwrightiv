@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Graham Wright
 
+I'm building a strong foundation in system administration by deploying real-world infrastructure projects in both Azure and on-prem environments. My portfolio demonstrates practical, job-ready skills—from Active Directory design and automation to securing Windows environments with PowerShell and NTFS permissions. Each project shows iterative growth and reflects my ability to manage both local and cloud-based systems confidently.
+
 I'm a junior system administrator and cloud support tech-in-training with hands-on experience deploying and managing Windows Server environments in Azure and locally. I specialize in Active Directory, PowerShell automation, and securing Windows environments through practical labs and real-world simulations.
 
 ---
