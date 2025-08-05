@@ -43,9 +43,8 @@ A complete lab demonstrating the setup, configuration, and security of a Windows
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/graham-wright-iv/) *(add this if you haven’t yet)*
-- 📘 [My Portfolio Repo Index](https://github.com/gwrightiv) *(this page)*
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/graham-wright-iv/)
+- 📘 [My Portfolio Repo Index](https://github.com/gwrightiv)
 ---
 
 _“Real learning happens when you deploy it.”_
